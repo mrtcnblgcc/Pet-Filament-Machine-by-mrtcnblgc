@@ -4,7 +4,7 @@ Making PET filament for 3D Printer from PET bottles.
 
 ## Part List:
 #### **Electronical :**
-- 200V AC to 12V DC/5A power supply. 
+- 220V AC to 12V DC/5A power supply. 
 - Arduino Mini (5V, 16 Mhz).
 - A4988 Step Motor Driver.
 - SSD1306 OLED Display.
