@@ -27,5 +27,6 @@
 - Suitable pieces of wood for the floor
 
 ## Instructions
-A wooden or similar base is required where you will place the gearbox and heater block. First, you need to build the gearbox, connect the motor to the gearbox. Then, you should place the heater block in line with the gearbox.
-  
+A wooden or similar base is required where you will place the gear box and heater block. First, you need to create the gear box, connect the motor to the gear box. Then, you should place the heater block in line with the gear box. I placed the power supply behind the wooden block that I used. If you want, you can place it in an independent place. You can also place the piece that we will use to cut the pet bottles on this wooden base like I did.
+
+
