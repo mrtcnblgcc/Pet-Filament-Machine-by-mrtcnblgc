@@ -92,4 +92,6 @@ After passing, we heat the heater between 180°C and 200°C. When the heater rea
 
 <img src="https://github.com/mrtcnblgcc/Pet-Filament-Machine-by-mrtcnblgc/blob/main/Photos/final.jpg" width="600" height="400" />
 
-Video link; [click here](https://website-name.com](https://www.youtube.com/watch?v=tgluLH4R5xo))
+Video link; [click here](https://www.youtube.com/watch?v=tgluLH4R5xo)
+
+
